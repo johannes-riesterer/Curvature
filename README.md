@@ -1,4 +1,4 @@
-Curvature
+Discrete gaussian Curvature
 =========
 
-discrete gaussian curvature
+<a href="https://vimeo.com/93247178">View a video here</a> 
